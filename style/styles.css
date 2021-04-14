@@ -1,3 +1,7 @@
-td {
+td,th {
     border: 1px solid black;
 }
+th,td{
+    border-spacing: 3px;
+    padding: 3px;
+    }
