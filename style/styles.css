@@ -2,12 +2,21 @@
     font-family: sans-serif;
 }
 
+footer{
+  height: 50px;
+}
+#text{
+    background-color: green;
+}
 
-/* body{
+.parallax {
     background-image: url('/img/background.jpg');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed; 
-} */
+    background-size: cover;
+  }
 th,td{
     border: 1px solid black;
     border-spacing: 3px;
