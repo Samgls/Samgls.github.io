@@ -5,13 +5,17 @@
 footer{
   height: 50px;
 }
-#text{
-    background-color: green;
+.text{
+   max-width: 500px;
+   margin: auto;
+   background-color: green;
 }
-
+body{
+    background-image: url('/img/backend.jpg');
+}
 .parallax {
     background-image: url('/img/background.jpg');
-    height: 500px;
+    height: 600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
