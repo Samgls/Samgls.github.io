@@ -9,13 +9,16 @@ footer{
    max-width: 500px;
    margin: auto;
    background-color: green;
+   padding: 15px;
 }
 body{
     background-image: url('/img/backend.jpg');
+    color: white;
+    
 }
 .parallax {
     background-image: url('/img/background.jpg');
-    height: 600px;
+    height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
